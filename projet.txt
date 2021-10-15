@@ -1,0 +1,20 @@
+1. Page d'accueil
+    index.htm
+2. Contact
+    contact.html
+    lien dans undex.html vers contact
+3. Oubli
+    lien retour dasn contact.html
+4. Catalogue
+    Créer une branche
+    Créer catalogue.html
+    admin/admin-catalogue.html
+
+    Bug à corriger sur master:
+    ajouter bug corrigé sur index.html
+    ->commit sur master
+
+    lien vers catalogue dans index.html
+    lien retour
+
+    fusion avec master
