@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Debut du Proje...t et j'adore le git
-=======
 Debut du Proje...t et c'set hyper ccool git
->>>>>>> feature-1
 le projet continue
 et ca continue...
 un rajout pour le feature-1
